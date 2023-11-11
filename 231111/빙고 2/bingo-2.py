@@ -23,11 +23,12 @@ def find(t):
         for j in range(5):
             if board[i][j] == t:
                 v[i][j] = True
+                break
 
 for i, t in enumerate(orders):
     find(t)
     if i<12:
         continue
-    if check() == 3:
+    if check() >= 3:
         print(i+1)
         break
