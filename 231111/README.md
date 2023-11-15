@@ -5,9 +5,7 @@
 |---:|---|---|
 |1|![Silver2][s2] ~ ![Silver2][s2]|`Simulation` `Exhaustive Search`|
 
-|기록분류|이름|티어|유형|상태|최근 제출 코드|
-|---|---|---|---|---|---|
-|일반 연습|[루프 탈출](https://www.codetree.ai/training-field/search/problems/loop-escape)|![Silver2][s2]|`Simulation` `Exhaustive Search`|![Failed][failed]|[링크](https://github.com/andysooho/codetree-TILs/blob/main/231111/%EB%A3%A8%ED%94%84%20%ED%83%88%EC%B6%9C/loop-escape.py)|
+
 
 
 
