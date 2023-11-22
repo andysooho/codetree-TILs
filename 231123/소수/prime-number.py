@@ -16,7 +16,7 @@ for num in range(a,b+1):
         min_val = min(min_val, num)
 
 if not count:
-    print(0)
+    print(-1)
     exit()
 print(count)
 print(min_val)
